@@ -33,3 +33,8 @@ npx tsc --init
 ```sh
 npx ts-node index.ts
 ```
+
+## 6. Compile ts to js (src to dist)
+```sh
+npx tsc
+```
