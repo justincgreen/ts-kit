@@ -31,5 +31,5 @@ npx tsc --init
 
 ## 5. Create ts file and run it using ts-node
 ```sh
-npx ts-node index.js
+npx ts-node index.ts
 ```
